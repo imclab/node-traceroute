@@ -1,4 +1,4 @@
 node-traceroute
 ===============
 
-Traceroute implementation in Node.js
+Traceroute implementation with Node.js
